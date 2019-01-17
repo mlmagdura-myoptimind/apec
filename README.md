@@ -43,7 +43,7 @@ x-api-key: `apechomesrandomapistring`
 ---
 
 ##### Get All Properties
-GET `properties`
+GET `https://apc.betaprojex.com/app/api/properties`
 ##### Response
 ```json
 200 OK
@@ -203,7 +203,7 @@ GET `properties`
 ---
 
 ##### Get Unit
-GET `properties/{property_id}/{unit_order_no}`
+GET `https://apc.betaprojex.com/app/api/properties/{property_id}/{unit_order_no}`
 > unit_order_no = Model Unit order in display starting from 0
 ##### Response
 ```json
@@ -250,7 +250,7 @@ GET `properties/{property_id}/{unit_order_no}`
 
 
 ##### Get Single Property
-GET `properties/{property_id}`
+GET `https://apc.betaprojex.com/app/api/properties/{property_id}`
 ##### Response
 ```json
 200 OK
@@ -317,7 +317,7 @@ GET `properties/{property_id}`
 ---
 
 ##### Get All News & Updates
-GET `news`
+GET `https://apc.betaprojex.com/app/api/news`
 ##### Response
 ```json
 200 OK
@@ -372,7 +372,7 @@ GET `news`
 ---
 
 ##### Get All Notifications
-GET `notifications/{user_id}`
+GET `https://apc.betaprojex.com/app/api/notifications/{user_id}`
 ##### Response
 ```json
 200 OK
@@ -407,7 +407,7 @@ GET `notifications/{user_id}`
 
 ---
 ##### Read a Notification
-GET `notifications/read/{post_id}/{user_id}`
+GET `https://apc.betaprojex.com/app/api/notifications/read/{post_id}/{user_id}`
 ##### Response
 ```json
 200 OK
@@ -427,7 +427,7 @@ GET `notifications/read/{post_id}/{user_id}`
 ---
 
 ##### Get Loan Calculator Result
-POST `calculator/calculate`
+POST `https://apc.betaprojex.com/app/api/calculator/calculate`
 
 **Parameters**
 
@@ -512,7 +512,7 @@ POST `calculator/calculate`
 ---
 
 ##### Get All Office Addresses
-GET `contact`
+GET `https://apc.betaprojex.com/app/api/contact`
 ##### Response
 ```json
 200 OK
@@ -627,7 +627,7 @@ GET `contact`
 ---
 
 ##### Get Single Office Addresses
-GET `contact/{office_id}`
+GET `https://apc.betaprojex.com/app/api/contact/{office_id}`
 ##### Response
 ```json
 200 OK
