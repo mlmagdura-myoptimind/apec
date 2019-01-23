@@ -51,14 +51,15 @@ GET `https://apc.betaprojex.com/app/api/properties`
     "data": [
         {
             "property_description": {
-                "logo": "http://localhost/apec/wp-content/uploads/2019/01/electronic_mark_0_1470133483.png",
+                "id": 168,
+                "logo": "https://apc.betaprojex.com/wp-content/uploads/2019/01/electronic_mark_0_1470133483.png",
                 "property_name": "Paragon Village",
                 "location": "Cavite",
                 "address": "<p>Brgy. San Agustin / Brgy. Cabuco, Trece Martires, Cavite</p>\n",
                 "featured_photos": [
-                    "http://localhost/apec/wp-content/uploads/2019/01/BBpmVjN.jpg",
-                    "http://localhost/apec/wp-content/uploads/2019/01/electronic_mark_0_1470133483-1.png",
-                    "http://localhost/apec/wp-content/uploads/2019/01/home-bg001-1128x452.png"
+                    "https://apc.betaprojex.com/wp-content/uploads/2019/01/BBpmVjN.jpg",
+                    "https://apc.betaprojex.com/wp-content/uploads/2019/01/electronic_mark_0_1470133483-1.png",
+                    "https://apc.betaprojex.com/wp-content/uploads/2019/01/home-bg001-1128x452.png"
                 ],
                 "total_area": "23.848",
                 "no_of_units": "3,196",
@@ -78,21 +79,27 @@ GET `https://apc.betaprojex.com/app/api/properties`
                 {
                     "name": "Townhouse",
                     "featured_image": false,
-                    "floor_area": "44"
+                    "floor_area": "44",
+                    "bedroom": "2",
+                    "bathroom": "1",
+                    "parking_space": "0"
                 },
                 {
                     "name": "Duplex (without garage)",
-                    "featured_image": "http://localhost/apec/wp-content/uploads/2019/01/BBpmVjN.jpg",
-                    "floor_area": "44.5"
+                    "featured_image": "https://apc.betaprojex.com/wp-content/uploads/2019/01/BBpmVjN.jpg",
+                    "floor_area": "44.5",
+                    "bedroom": "2",
+                    "bathroom": "1",
+                    "parking_space": "0"
                 }
             ],
             "gallery": [
-                "http://localhost/apec/wp-content/uploads/2019/01/BBpmVjN.jpg",
-                "http://localhost/apec/wp-content/uploads/2019/01/electronic_mark_0_1470133483-1.png",
-                "http://localhost/apec/wp-content/uploads/2019/01/home-bg001-1128x452.png"
+                "https://apc.betaprojex.com/wp-content/uploads/2019/01/BBpmVjN.jpg",
+                "https://apc.betaprojex.com/wp-content/uploads/2019/01/electronic_mark_0_1470133483-1.png",
+                "https://apc.betaprojex.com/wp-content/uploads/2019/01/home-bg001-1128x452.png"
             ],
             "site_plan": [
-                "http://localhost/apec/wp-content/uploads/2019/01/BBpmVjN.jpg"
+                "https://apc.betaprojex.com/wp-content/uploads/2019/01/BBpmVjN.jpg"
             ],
             "vicinity_map": {
                 "lat": "14.2829325",
@@ -101,12 +108,13 @@ GET `https://apc.betaprojex.com/app/api/properties`
         },
         {
             "property_description": {
+                "id": 28,
                 "logo": null,
                 "property_name": "Highland Residences",
                 "location": "",
                 "address": "",
                 "featured_photos": [
-                    "http://localhost/apec/app/assets/images/default-thumbnail.jpg"
+                    "https://apc.betaprojex.com/app/assets/images/default-thumbnail.jpg"
                 ],
                 "total_area": "",
                 "no_of_units": "",
@@ -118,7 +126,7 @@ GET `https://apc.betaprojex.com/app/api/properties`
             },
             "model_house": [],
             "gallery": [
-                "http://localhost/apec/app/assets/images/default-thumbnail.jpg"
+                "https://apc.betaprojex.com/app/assets/images/default-thumbnail.jpg"
             ],
             "site_plan": [
                 null
@@ -130,14 +138,15 @@ GET `https://apc.betaprojex.com/app/api/properties`
         },
         {
             "property_description": {
+                "id": 21,
                 "logo": null,
                 "property_name": "Brixton Homes",
                 "location": "",
                 "address": "",
                 "featured_photos": [
-                    "http://localhost/apec/wp-content/uploads/2018/11/74994391_021728376-1.jpg",
-                    "http://localhost/apec/wp-content/uploads/2018/11/IMG_5191.jpg",
-                    "http://localhost/apec/wp-content/uploads/2018/11/slider3.jpg"
+                    "https://apc.betaprojex.com/wp-content/uploads/2018/11/74994391_021728376-1.jpg",
+                    "https://apc.betaprojex.com/wp-content/uploads/2018/11/IMG_5191.jpg",
+                    "https://apc.betaprojex.com/wp-content/uploads/2018/11/slider3.jpg"
                 ],
                 "total_area": "1234",
                 "no_of_units": "123",
@@ -149,9 +158,9 @@ GET `https://apc.betaprojex.com/app/api/properties`
             },
             "model_house": [],
             "gallery": [
-                "http://localhost/apec/wp-content/uploads/2018/11/74994391_021728376-1.jpg",
-                "http://localhost/apec/wp-content/uploads/2018/11/IMG_5191.jpg",
-                "http://localhost/apec/wp-content/uploads/2018/11/slider3.jpg"
+                "https://apc.betaprojex.com/wp-content/uploads/2018/11/74994391_021728376-1.jpg",
+                "https://apc.betaprojex.com/wp-content/uploads/2018/11/IMG_5191.jpg",
+                "https://apc.betaprojex.com/wp-content/uploads/2018/11/slider3.jpg"
             ],
             "site_plan": [
                 null
@@ -163,14 +172,15 @@ GET `https://apc.betaprojex.com/app/api/properties`
         },
         {
             "property_description": {
+                "id": 17,
                 "logo": null,
                 "property_name": "Southbrooke Village",
                 "location": "Batangas",
                 "address": "",
                 "featured_photos": [
-                    "http://localhost/apec/wp-content/uploads/2018/11/unnamed.jpg",
-                    "http://localhost/apec/wp-content/uploads/2018/11/Wonderful-Panda-Wallpapers-HD-backgrounds.jpg",
-                    "http://localhost/apec/wp-content/uploads/2018/11/Panda-Wallpapers-for-PC-Desktop.jpeg"
+                    "https://apc.betaprojex.com/wp-content/uploads/2018/11/unnamed.jpg",
+                    "https://apc.betaprojex.com/wp-content/uploads/2018/11/Wonderful-Panda-Wallpapers-HD-backgrounds.jpg",
+                    "https://apc.betaprojex.com/wp-content/uploads/2018/11/Panda-Wallpapers-for-PC-Desktop.jpeg"
                 ],
                 "total_area": "543",
                 "no_of_units": "321",
@@ -182,9 +192,9 @@ GET `https://apc.betaprojex.com/app/api/properties`
             },
             "model_house": [],
             "gallery": [
-                "http://localhost/apec/wp-content/uploads/2018/11/unnamed.jpg",
-                "http://localhost/apec/wp-content/uploads/2018/11/Wonderful-Panda-Wallpapers-HD-backgrounds.jpg",
-                "http://localhost/apec/wp-content/uploads/2018/11/Panda-Wallpapers-for-PC-Desktop.jpeg"
+                "https://apc.betaprojex.com/wp-content/uploads/2018/11/unnamed.jpg",
+                "https://apc.betaprojex.com/wp-content/uploads/2018/11/Wonderful-Panda-Wallpapers-HD-backgrounds.jpg",
+                "https://apc.betaprojex.com/wp-content/uploads/2018/11/Panda-Wallpapers-for-PC-Desktop.jpeg"
             ],
             "site_plan": [
                 null
@@ -211,15 +221,15 @@ GET `https://apc.betaprojex.com/app/api/properties/{property_id}/{unit_order_no}
 {
     "data": {
         "name": "Duplex (without garage)",
-        "featured_image": "http://localhost/apec/wp-content/uploads/2019/01/BBpmVjN.jpg",
+        "featured_image": "https://apc.betaprojex.com/wp-content/uploads/2019/01/BBpmVjN.jpg",
         "floor_area": "44.5",
         "bedroom": "2",
         "bathroom": "1",
         "parking_space": "0",
         "sample_photos": [
-            "http://localhost/apec/wp-content/uploads/2019/01/electronic_mark_0_1470133483-1.png",
-            "http://localhost/apec/wp-content/uploads/2019/01/BBpmVjN.jpg",
-            "http://localhost/apec/wp-content/uploads/2019/01/electronic_mark_0_1470133483.png"
+            "https://apc.betaprojex.com/wp-content/uploads/2019/01/electronic_mark_0_1470133483-1.png",
+            "https://apc.betaprojex.com/wp-content/uploads/2019/01/BBpmVjN.jpg",
+            "https://apc.betaprojex.com/wp-content/uploads/2019/01/electronic_mark_0_1470133483.png"
         ],
         "house_specifications": [
             "Long Span Colored Roof",
@@ -232,11 +242,11 @@ GET `https://apc.betaprojex.com/app/api/properties/{property_id}/{unit_order_no}
         ],
         "floor_plan": [
             {
-                "image": "http://localhost/apec/wp-content/uploads/2019/01/electronic_mark_0_1470133483-1.png",
+                "image": "https://apc.betaprojex.com/wp-content/uploads/2019/01/electronic_mark_0_1470133483-1.png",
                 "image_caption": "Ground Floor"
             },
             {
-                "image": "http://localhost/apec/wp-content/uploads/2019/01/BBpmVjN.jpg",
+                "image": "https://apc.betaprojex.com/wp-content/uploads/2019/01/BBpmVjN.jpg",
                 "image_caption": "Second Floor"
             }
         ]
@@ -257,14 +267,15 @@ GET `https://apc.betaprojex.com/app/api/properties/{property_id}`
 {
     "data": {
         "property_description": {
-            "logo": "http://localhost/apec/wp-content/uploads/2019/01/electronic_mark_0_1470133483.png",
+            "id": "168",
+            "logo": "https://apc.betaprojex.com/wp-content/uploads/2019/01/electronic_mark_0_1470133483.png",
             "property_name": "Paragon Village",
             "location": "Cavite",
             "address": "<p>Brgy. San Agustin / Brgy. Cabuco, Trece Martires, Cavite</p>\n",
             "featured_photos": [
-                "http://localhost/apec/wp-content/uploads/2019/01/BBpmVjN.jpg",
-                "http://localhost/apec/wp-content/uploads/2019/01/electronic_mark_0_1470133483-1.png",
-                "http://localhost/apec/wp-content/uploads/2019/01/home-bg001-1128x452.png"
+                "https://apc.betaprojex.com/wp-content/uploads/2019/01/BBpmVjN.jpg",
+                "https://apc.betaprojex.com/wp-content/uploads/2019/01/electronic_mark_0_1470133483-1.png",
+                "https://apc.betaprojex.com/wp-content/uploads/2019/01/home-bg001-1128x452.png"
             ],
             "total_area": "23.848",
             "no_of_units": "3,196",
@@ -284,21 +295,27 @@ GET `https://apc.betaprojex.com/app/api/properties/{property_id}`
             {
                 "name": "Townhouse",
                 "featured_image": false,
-                "floor_area": "44"
+                "floor_area": "44",
+                "bedroom": "2",
+                "bathroom": "1",
+                "parking_space": "0"
             },
             {
                 "name": "Duplex (without garage)",
-                "featured_image": "http://localhost/apec/wp-content/uploads/2019/01/BBpmVjN.jpg",
-                "floor_area": "44.5"
+                "featured_image": "https://apc.betaprojex.com/wp-content/uploads/2019/01/BBpmVjN.jpg",
+                "floor_area": "44.5",
+                "bedroom": "2",
+                "bathroom": "1",
+                "parking_space": "0"
             }
         ],
         "gallery": [
-            "http://localhost/apec/wp-content/uploads/2019/01/BBpmVjN.jpg",
-            "http://localhost/apec/wp-content/uploads/2019/01/electronic_mark_0_1470133483-1.png",
-            "http://localhost/apec/wp-content/uploads/2019/01/home-bg001-1128x452.png"
+            "https://apc.betaprojex.com/wp-content/uploads/2019/01/BBpmVjN.jpg",
+            "https://apc.betaprojex.com/wp-content/uploads/2019/01/electronic_mark_0_1470133483-1.png",
+            "https://apc.betaprojex.com/wp-content/uploads/2019/01/home-bg001-1128x452.png"
         ],
         "site_plan": [
-            "http://localhost/apec/wp-content/uploads/2019/01/BBpmVjN.jpg"
+            "https://apc.betaprojex.com/wp-content/uploads/2019/01/BBpmVjN.jpg"
         ],
         "vicinity_map": {
             "lat": "14.2829325",
@@ -339,7 +356,7 @@ GET `https://apc.betaprojex.com/app/api/news`
             "ID": 139,
             "title": "Seminars",
             "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-            "thumbnail": "http://localhost/apechomes/wp-content/uploads/2018/11/IMG_5191.jpg"
+            "thumbnail": "https://apc.betaprojex.comhomes/wp-content/uploads/2018/11/IMG_5191.jpg"
         },
         {
             "ID": 138,
@@ -357,7 +374,7 @@ GET `https://apc.betaprojex.com/app/api/news`
             "ID": 136,
             "title": "News/Updates",
             "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-            "thumbnail": "http://localhost/apechomes/wp-content/uploads/2018/11/unnamed.jpg"
+            "thumbnail": "https://apc.betaprojex.comhomes/wp-content/uploads/2018/11/unnamed.jpg"
         }
     ],
     "message": "Successfully found all data",
@@ -382,7 +399,7 @@ GET `https://apc.betaprojex.com/app/api/notifications/{user_id}`
             "ID": 166,
             "title": "Be at the Heart of your Dreams!",
             "content": "Mauris rutrum porttitor viverra. Phasellus ac mauris cursus, placerat nulla non, congue orci. Nullam ligula ante, fermentum in hendrerit at, semper a odio. Etiam purus sapien, vehicula ut erat tristique, pellentesque euismod lacus. Morbi ac faucibus elit, eu facilisis libero. Integer gravida bibendum pulvinar. Mauris et purus urna. Cras pharetra ultrices est non accumsan. Proin elit nibh, volutpat blandit dui id, egestas suscipit nibh.\r\n\r\nDonec lacus dui, suscipit quis risus placerat, imperdiet ullamcorper mi. Nullam at purus ac lectus fermentum aliquet. Donec laoreet lacus ipsum, in consequat arcu molestie vitae. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a dui leo. Nunc non augue a sapien pellentesque viverra. Vivamus quis posuere turpis, eu pellentesque velit. Nullam imperdiet urna enim, nec tempus est tincidunt a. Suspendisse orci erat, dapibus ac nisl a, rhoncus ultrices ex. Vestibulum dignissim vehicula eleifend. Quisque consequat eget augue sed hendrerit. Pellentesque iaculis ante quis ultricies facilisis.",
-            "thumbnail": "http://localhost/apec/wp-content/uploads/2019/01/electronic_mark_0_1470133483.png",
+            "thumbnail": "https://apc.betaprojex.com/wp-content/uploads/2019/01/electronic_mark_0_1470133483.png",
             "is_read": "1"
         },
         {
@@ -525,7 +542,7 @@ GET `https://apc.betaprojex.com/app/api/contact`
             "office_name": "CENTROMALL OFFICE",
             "complete_location": "2F Centromall Cabuyao, Brgy. Pulo, Cabuyao, Laguna",
             "featured_photos": [
-                "http://localhost/apec/app/assets/images/default-thumbnail.jpg"
+                "https://apc.betaprojex.com/app/assets/images/default-thumbnail.jpg"
             ],
             "schedule": [
                 {
@@ -574,7 +591,7 @@ GET `https://apc.betaprojex.com/app/api/contact`
             "office_name": "",
             "complete_location": "",
             "featured_photos": [
-                "http://localhost/apec/app/assets/images/default-thumbnail.jpg"
+                "https://apc.betaprojex.com/app/assets/images/default-thumbnail.jpg"
             ],
             "schedule": "",
             "cutoff": "",
@@ -591,7 +608,7 @@ GET `https://apc.betaprojex.com/app/api/contact`
             "office_name": "",
             "complete_location": "",
             "featured_photos": [
-                "http://localhost/apec/app/assets/images/default-thumbnail.jpg"
+                "https://apc.betaprojex.com/app/assets/images/default-thumbnail.jpg"
             ],
             "schedule": "",
             "cutoff": "",
@@ -608,7 +625,7 @@ GET `https://apc.betaprojex.com/app/api/contact`
             "office_name": "",
             "complete_location": "",
             "featured_photos": [
-                "http://localhost/apec/app/assets/images/default-thumbnail.jpg"
+                "https://apc.betaprojex.com/app/assets/images/default-thumbnail.jpg"
             ],
             "schedule": "",
             "cutoff": "",
@@ -639,7 +656,7 @@ GET `https://apc.betaprojex.com/app/api/contact/{office_id}`
         "office_name": "CENTROMALL OFFICE",
         "complete_location": "2F Centromall Cabuyao, Brgy. Pulo, Cabuyao, Laguna",
         "featured_photos": [
-            "http://localhost/apec/app/assets/images/default-thumbnail.jpg"
+            "https://apc.betaprojex.com/app/assets/images/default-thumbnail.jpg"
         ],
         "schedule": [
             {
