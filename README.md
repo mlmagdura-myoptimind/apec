@@ -470,12 +470,14 @@ POST `https://apc.betaprojex.com/app/api/calculator/calculate`
                 "value": "Php 891,000.00"
             },
             "monthly_equity": "Php 5,500.00",
-            "5_years_monthly_amo": "Php 17,433.44",
-            "10_years_monthly_amo": "Php 10,117.12",
-            "15_years_monthly_amo": "Php 7,761.57",
-            "20_years_monthly_amo": "Php 6,643.06",
-            "25_years_monthly_amo": "Php 6,016.10",
-            "30_years_monthly_amo": "Php 5,631.73"
+            "yearly_amo": {
+                "5_years_monthly_amo": "Php 17,433.44",
+                "10_years_monthly_amo": "Php 10,117.12",
+                "15_years_monthly_amo": "Php 7,761.57",
+                "20_years_monthly_amo": "Php 6,643.06",
+                "25_years_monthly_amo": "Php 6,016.10",
+                "30_years_monthly_amo": "Php 5,631.73"
+            }
         },
         "inhouse": {
             "downpayment": {
@@ -487,8 +489,10 @@ POST `https://apc.betaprojex.com/app/api/calculator/calculate`
                 "value": "Php 693,000.00"
             },
             "monthly_equity": "Php 24,750.00",
-            "5_years_monthly_amo": "Php 15,415.09",
-            "10_years_monthly_amo": "Php 12,044.34"
+            "yearly_amo": {
+                "5_years_monthly_amo": "Php 15,415.09",
+                "10_years_monthly_amo": "Php 12,044.34"
+            }
         },
         "bank": {
             "downpayment": {
@@ -500,12 +504,14 @@ POST `https://apc.betaprojex.com/app/api/calculator/calculate`
                 "value": "Php 792,000.00"
             },
             "monthly_equity": "Php 11,000.00",
-            "5_years_monthly_amo": "Php 15,496.39",
-            "10_years_monthly_amo": "Php 8,993.00",
-            "15_years_monthly_amo": "Php 6,899.17",
-            "20_years_monthly_amo": "Php 5,904.94",
-            "25_years_monthly_amo": "Php 5,347.64",
-            "30_years_monthly_amo": "Php 5,005.98"
+            "yearly_amo": {
+                "5_years_monthly_amo": "Php 15,496.39",
+                "10_years_monthly_amo": "Php 8,993.00",
+                "15_years_monthly_amo": "Php 6,899.17",
+                "20_years_monthly_amo": "Php 5,904.94",
+                "25_years_monthly_amo": "Php 5,347.64",
+                "30_years_monthly_amo": "Php 5,005.98"
+            }
         },
         "deferred": {
             "downpayment": {
