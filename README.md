@@ -221,15 +221,15 @@ GET `https://apc.betaprojex.com/app/api/properties/{property_id}/{unit_order_no}
 {
     "data": {
         "name": "Duplex (without garage)",
-        "featured_image": "https://apc.betaprojex.com/wp-content/uploads/2019/01/BBpmVjN.jpg",
+        "featured_image": "http://apc.betaprojex.com/wp-content/uploads/2019/01/BBpmVjN.jpg",
         "floor_area": "44.5",
         "bedroom": "2",
         "bathroom": "1",
         "parking_space": "0",
         "sample_photos": [
-            "https://apc.betaprojex.com/wp-content/uploads/2019/01/electronic_mark_0_1470133483-1.png",
-            "https://apc.betaprojex.com/wp-content/uploads/2019/01/BBpmVjN.jpg",
-            "https://apc.betaprojex.com/wp-content/uploads/2019/01/electronic_mark_0_1470133483.png"
+            "http://apc.betaprojex.com/wp-content/uploads/2019/01/electronic_mark_0_1470133483-1.png",
+            "http://apc.betaprojex.com/wp-content/uploads/2019/01/BBpmVjN.jpg",
+            "http://apc.betaprojex.com/wp-content/uploads/2019/01/electronic_mark_0_1470133483.png"
         ],
         "house_specifications": [
             "Long Span Colored Roof",
@@ -242,11 +242,11 @@ GET `https://apc.betaprojex.com/app/api/properties/{property_id}/{unit_order_no}
         ],
         "floor_plan": [
             {
-                "image": "https://apc.betaprojex.com/wp-content/uploads/2019/01/electronic_mark_0_1470133483-1.png",
+                "image": "http://apc.betaprojex.com/wp-content/uploads/2019/01/electronic_mark_0_1470133483-1.png",
                 "image_caption": "Ground Floor"
             },
             {
-                "image": "https://apc.betaprojex.com/wp-content/uploads/2019/01/BBpmVjN.jpg",
+                "image": "http://apc.betaprojex.com/wp-content/uploads/2019/01/BBpmVjN.jpg",
                 "image_caption": "Second Floor"
             }
         ]
@@ -268,14 +268,14 @@ GET `https://apc.betaprojex.com/app/api/properties/{property_id}`
     "data": {
         "property_description": {
             "id": "168",
-            "logo": "https://apc.betaprojex.com/wp-content/uploads/2019/01/electronic_mark_0_1470133483.png",
+            "logo": "http://apc.betaprojex.com/wp-content/uploads/2019/01/electronic_mark_0_1470133483.png",
             "property_name": "Paragon Village",
             "location": "Cavite",
             "address": "<p>Brgy. San Agustin / Brgy. Cabuco, Trece Martires, Cavite</p>\n",
             "featured_photos": [
-                "https://apc.betaprojex.com/wp-content/uploads/2019/01/BBpmVjN.jpg",
-                "https://apc.betaprojex.com/wp-content/uploads/2019/01/electronic_mark_0_1470133483-1.png",
-                "https://apc.betaprojex.com/wp-content/uploads/2019/01/home-bg001-1128x452.png"
+                "http://apc.betaprojex.com/wp-content/uploads/2019/01/BBpmVjN.jpg",
+                "http://apc.betaprojex.com/wp-content/uploads/2019/01/electronic_mark_0_1470133483-1.png",
+                "http://apc.betaprojex.com/wp-content/uploads/2019/01/home-bg001-1128x452.png"
             ],
             "total_area": "23.848",
             "no_of_units": "3,196",
@@ -298,24 +298,75 @@ GET `https://apc.betaprojex.com/app/api/properties/{property_id}`
                 "floor_area": "44",
                 "bedroom": "2",
                 "bathroom": "1",
-                "parking_space": "0"
+                "parking_space": "0",
+                "sample_photos": [
+                    "http://apc.betaprojex.com/wp-content/uploads/2019/01/electronic_mark_0_1470133483-1.png",
+                    "http://apc.betaprojex.com/wp-content/uploads/2019/01/electronic_mark_0_1470133483.png"
+                ],
+                "house_specifications": [
+                    "Long Span Colored Roof",
+                    "Steel Roof Framings",
+                    "Tiled Bathroom",
+                    "Steel Casement Windows",
+                    "Complete Toilet & Bath",
+                    "Complete Electrical Wirings and Fixtures",
+                    "Complete Water/Plumbing Pipes & Fixtures"
+                ],
+                "floor_plan": [
+                    {
+                        "image": "http://apc.betaprojex.com/wp-content/uploads/2019/01/electronic_mark_0_1470133483-1.png",
+                        "image_caption": "Ground Floor"
+                    },
+                    {
+                        "image": "http://apc.betaprojex.com/wp-content/uploads/2019/01/BBpmVjN.jpg",
+                        "image_caption": "Second Floor"
+                    },
+                    {
+                        "image": "http://apc.betaprojex.com/wp-content/uploads/2019/01/electronic_mark_0_1470133483.png",
+                        "image_caption": "Third Floor"
+                    }
+                ]
             },
             {
                 "name": "Duplex (without garage)",
-                "featured_image": "https://apc.betaprojex.com/wp-content/uploads/2019/01/BBpmVjN.jpg",
+                "featured_image": "http://apc.betaprojex.com/wp-content/uploads/2019/01/BBpmVjN.jpg",
                 "floor_area": "44.5",
                 "bedroom": "2",
                 "bathroom": "1",
-                "parking_space": "0"
+                "parking_space": "0",
+                "sample_photos": [
+                    "http://apc.betaprojex.com/wp-content/uploads/2019/01/electronic_mark_0_1470133483-1.png",
+                    "http://apc.betaprojex.com/wp-content/uploads/2019/01/BBpmVjN.jpg",
+                    "http://apc.betaprojex.com/wp-content/uploads/2019/01/electronic_mark_0_1470133483.png"
+                ],
+                "house_specifications": [
+                    "Long Span Colored Roof",
+                    "Steel Roof Framings",
+                    "Tiled Bathroom",
+                    "Steel Casement Windows",
+                    "Complete Toilet & Bath",
+                    "Complete Electrical Wirings and Fixtures",
+                    "Complete Water/Plumbing Pipes & Fixtures"
+                ],
+                "floor_plan": [
+                    {
+                        "image": "http://apc.betaprojex.com/wp-content/uploads/2019/01/electronic_mark_0_1470133483-1.png",
+                        "image_caption": "Ground Floor"
+                    },
+                    {
+                        "image": "http://apc.betaprojex.com/wp-content/uploads/2019/01/BBpmVjN.jpg",
+                        "image_caption": "Second Floor"
+                    }
+                ]
             }
         ],
         "gallery": [
-            "https://apc.betaprojex.com/wp-content/uploads/2019/01/BBpmVjN.jpg",
-            "https://apc.betaprojex.com/wp-content/uploads/2019/01/electronic_mark_0_1470133483-1.png",
-            "https://apc.betaprojex.com/wp-content/uploads/2019/01/home-bg001-1128x452.png"
+            "http://apc.betaprojex.com/wp-content/uploads/2019/01/BBpmVjN.jpg",
+            "http://apc.betaprojex.com/wp-content/uploads/2019/01/electronic_mark_0_1470133483-1.png",
+            "http://apc.betaprojex.com/wp-content/uploads/2019/01/home-bg001-1128x452.png"
         ],
         "site_plan": [
-            "https://apc.betaprojex.com/wp-content/uploads/2019/01/BBpmVjN.jpg"
+            "http://apc.betaprojex.com/wp-content/uploads/2019/01/BBpmVjN.jpg"
         ],
         "vicinity_map": {
             "lat": "14.2829325",
