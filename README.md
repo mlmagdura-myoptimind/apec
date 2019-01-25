@@ -52,14 +52,15 @@ GET `https://apc.betaprojex.com/app/api/properties`
         {
             "property_description": {
                 "id": 168,
-                "logo": "https://apc.betaprojex.com/wp-content/uploads/2019/01/electronic_mark_0_1470133483.png",
+                "logo": "http://apc.betaprojex.com/wp-content/uploads/2019/01/logo.png",
                 "property_name": "Paragon Village",
                 "location": "Cavite",
                 "address": "<p>Brgy. San Agustin / Brgy. Cabuco, Trece Martires, Cavite</p>\n",
                 "featured_photos": [
-                    "https://apc.betaprojex.com/wp-content/uploads/2019/01/BBpmVjN.jpg",
-                    "https://apc.betaprojex.com/wp-content/uploads/2019/01/electronic_mark_0_1470133483-1.png",
-                    "https://apc.betaprojex.com/wp-content/uploads/2019/01/home-bg001-1128x452.png"
+                    "http://apc.betaprojex.com/wp-content/uploads/2019/01/hqdefault.jpg",
+                    "http://apc.betaprojex.com/wp-content/uploads/2019/01/5b75a356e199f336008b528b-750-563.jpg",
+                    "http://apc.betaprojex.com/wp-content/uploads/2019/01/59d523ba2ff63064008b4ab5-750-500.jpg",
+                    "http://apc.betaprojex.com/wp-content/uploads/2019/01/East-Coast_Manzeene_size-27-only.jpg"
                 ],
                 "total_area": "23.848",
                 "no_of_units": "3,196",
@@ -82,24 +83,74 @@ GET `https://apc.betaprojex.com/app/api/properties`
                     "floor_area": "44",
                     "bedroom": "2",
                     "bathroom": "1",
-                    "parking_space": "0"
+                    "parking_space": "0",
+                    "sample_photos": [
+                        "http://apc.betaprojex.com/wp-content/uploads/2019/01/images.jpg",
+                        "http://apc.betaprojex.com/wp-content/uploads/2019/01/028.jpg",
+                        "http://apc.betaprojex.com/wp-content/uploads/2019/01/26220-Beautiful-House-Interior.jpg",
+                        "http://apc.betaprojex.com/wp-content/uploads/2019/01/House-K-by-K2YT-_dezeen_784_2.jpg"
+                    ],
+                    "house_specifications": [
+                        "Long Span Colored Roof",
+                        "Steel Roof Framings",
+                        "Tiled Bathroom",
+                        "Steel Casement Windows",
+                        "Complete Toilet & Bath",
+                        "Complete Electrical Wirings and Fixtures",
+                        "Complete Water/Plumbing Pipes & Fixtures"
+                    ],
+                    "floor_plan": [
+                        {
+                            "image": "http://apc.betaprojex.com/wp-content/uploads/2019/01/DUPLEX-WO-GARAGE_FLOORPLAN_1STFLR.jpg",
+                            "image_caption": "Ground Floor"
+                        },
+                        {
+                            "image": "http://apc.betaprojex.com/wp-content/uploads/2019/01/floor-plan-second-floor-villa-aracadia-imus-cavite.jpg",
+                            "image_caption": "Second Floor"
+                        }
+                    ]
                 },
                 {
                     "name": "Duplex (without garage)",
-                    "featured_image": "https://apc.betaprojex.com/wp-content/uploads/2019/01/BBpmVjN.jpg",
+                    "featured_image": false,
                     "floor_area": "44.5",
                     "bedroom": "2",
                     "bathroom": "1",
-                    "parking_space": "0"
+                    "parking_space": "0",
+                    "sample_photos": [
+                        "http://apc.betaprojex.com/wp-content/uploads/2019/01/House-K-by-K2YT-_dezeen_784_2.jpg",
+                        "http://apc.betaprojex.com/wp-content/uploads/2019/01/028.jpg",
+                        "http://apc.betaprojex.com/wp-content/uploads/2019/01/images.jpg"
+                    ],
+                    "house_specifications": [
+                        "Long Span Colored Roof",
+                        "Steel Roof Framings",
+                        "Tiled Bathroom",
+                        "Steel Casement Windows",
+                        "Complete Toilet & Bath",
+                        "Complete Electrical Wirings and Fixtures",
+                        "Complete Water/Plumbing Pipes & Fixtures"
+                    ],
+                    "floor_plan": [
+                        {
+                            "image": "http://apc.betaprojex.com/wp-content/uploads/2019/01/DUPLEX-WO-GARAGE_FLOORPLAN_1STFLR.jpg",
+                            "image_caption": "Ground Floor"
+                        },
+                        {
+                            "image": "http://apc.betaprojex.com/wp-content/uploads/2019/01/floor-plan-second-floor-villa-aracadia-imus-cavite.jpg",
+                            "image_caption": "Second Floor"
+                        }
+                    ]
                 }
             ],
             "gallery": [
-                "https://apc.betaprojex.com/wp-content/uploads/2019/01/BBpmVjN.jpg",
-                "https://apc.betaprojex.com/wp-content/uploads/2019/01/electronic_mark_0_1470133483-1.png",
-                "https://apc.betaprojex.com/wp-content/uploads/2019/01/home-bg001-1128x452.png"
+                "http://apc.betaprojex.com/wp-content/uploads/2019/01/hqdefault.jpg",
+                "http://apc.betaprojex.com/wp-content/uploads/2019/01/5b75a356e199f336008b528b-750-563.jpg",
+                "http://apc.betaprojex.com/wp-content/uploads/2019/01/59d523ba2ff63064008b4ab5-750-500.jpg",
+                "http://apc.betaprojex.com/wp-content/uploads/2019/01/East-Coast_Manzeene_size-27-only.jpg"
             ],
             "site_plan": [
-                "https://apc.betaprojex.com/wp-content/uploads/2019/01/BBpmVjN.jpg"
+                "http://apc.betaprojex.com/wp-content/uploads/2019/01/pvt_sdp-2.png"
             ],
             "vicinity_map": {
                 "lat": "14.2829325",
@@ -114,7 +165,7 @@ GET `https://apc.betaprojex.com/app/api/properties`
                 "location": "",
                 "address": "",
                 "featured_photos": [
-                    "https://apc.betaprojex.com/app/assets/images/default-thumbnail.jpg"
+                    "http://localhost/apec/app/assets/images/default-thumbnail.jpg"
                 ],
                 "total_area": "",
                 "no_of_units": "",
@@ -126,7 +177,7 @@ GET `https://apc.betaprojex.com/app/api/properties`
             },
             "model_house": [],
             "gallery": [
-                "https://apc.betaprojex.com/app/assets/images/default-thumbnail.jpg"
+                "http://localhost/apec/app/assets/images/default-thumbnail.jpg"
             ],
             "site_plan": [
                 null
@@ -144,9 +195,9 @@ GET `https://apc.betaprojex.com/app/api/properties`
                 "location": "",
                 "address": "",
                 "featured_photos": [
-                    "https://apc.betaprojex.com/wp-content/uploads/2018/11/74994391_021728376-1.jpg",
-                    "https://apc.betaprojex.com/wp-content/uploads/2018/11/IMG_5191.jpg",
-                    "https://apc.betaprojex.com/wp-content/uploads/2018/11/slider3.jpg"
+                    "http://apc.betaprojex.com/wp-content/uploads/2018/11/74994391_021728376-1.jpg",
+                    "http://apc.betaprojex.com/wp-content/uploads/2018/11/IMG_5191.jpg",
+                    "http://apc.betaprojex.com/wp-content/uploads/2018/11/slider3.jpg"
                 ],
                 "total_area": "1234",
                 "no_of_units": "123",
@@ -158,9 +209,9 @@ GET `https://apc.betaprojex.com/app/api/properties`
             },
             "model_house": [],
             "gallery": [
-                "https://apc.betaprojex.com/wp-content/uploads/2018/11/74994391_021728376-1.jpg",
-                "https://apc.betaprojex.com/wp-content/uploads/2018/11/IMG_5191.jpg",
-                "https://apc.betaprojex.com/wp-content/uploads/2018/11/slider3.jpg"
+                "http://apc.betaprojex.com/wp-content/uploads/2018/11/74994391_021728376-1.jpg",
+                "http://apc.betaprojex.com/wp-content/uploads/2018/11/IMG_5191.jpg",
+                "http://apc.betaprojex.com/wp-content/uploads/2018/11/slider3.jpg"
             ],
             "site_plan": [
                 null
@@ -178,9 +229,9 @@ GET `https://apc.betaprojex.com/app/api/properties`
                 "location": "Batangas",
                 "address": "",
                 "featured_photos": [
-                    "https://apc.betaprojex.com/wp-content/uploads/2018/11/unnamed.jpg",
-                    "https://apc.betaprojex.com/wp-content/uploads/2018/11/Wonderful-Panda-Wallpapers-HD-backgrounds.jpg",
-                    "https://apc.betaprojex.com/wp-content/uploads/2018/11/Panda-Wallpapers-for-PC-Desktop.jpeg"
+                    "http://apc.betaprojex.com/wp-content/uploads/2018/11/unnamed.jpg",
+                    "http://apc.betaprojex.com/wp-content/uploads/2018/11/Wonderful-Panda-Wallpapers-HD-backgrounds.jpg",
+                    "http://apc.betaprojex.com/wp-content/uploads/2018/11/Panda-Wallpapers-for-PC-Desktop.jpeg"
                 ],
                 "total_area": "543",
                 "no_of_units": "321",
@@ -192,9 +243,9 @@ GET `https://apc.betaprojex.com/app/api/properties`
             },
             "model_house": [],
             "gallery": [
-                "https://apc.betaprojex.com/wp-content/uploads/2018/11/unnamed.jpg",
-                "https://apc.betaprojex.com/wp-content/uploads/2018/11/Wonderful-Panda-Wallpapers-HD-backgrounds.jpg",
-                "https://apc.betaprojex.com/wp-content/uploads/2018/11/Panda-Wallpapers-for-PC-Desktop.jpeg"
+                "http://apc.betaprojex.com/wp-content/uploads/2018/11/unnamed.jpg",
+                "http://apc.betaprojex.com/wp-content/uploads/2018/11/Wonderful-Panda-Wallpapers-HD-backgrounds.jpg",
+                "http://apc.betaprojex.com/wp-content/uploads/2018/11/Panda-Wallpapers-for-PC-Desktop.jpeg"
             ],
             "site_plan": [
                 null
